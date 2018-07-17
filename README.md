@@ -1,6 +1,11 @@
-# krypton
+# Krypton
 
-> Cryptocurrency watcher
+> Cryptocurrency tracker using vue.js
+
+## Video Tutorials
+
+[Tutorial playlist on youtube](https://www.youtube.com/playlist?list=PLmxSe0-g_i-ghDmGTuwrI922YS1mXMR45)
+
 
 ## Build Setup
 
